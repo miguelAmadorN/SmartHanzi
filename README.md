@@ -1,2 +1,2 @@
 # SmartHanzi
-SmartHanzi uses [Hanzi Writer Data](https://github.com/user/repo/blob/branch/other_file.md)
+SmartHanzi uses [Hanzi Writer Data](https://github.com/user/repo/blob/branch/other_file.md) which extracted the data from fonts by [Arphic Technology](http://www.arphic.com.tw/), a Taiwanese font forge that released their work under a permissive license in 1999. You can redistribute and/or modify this data under the terms of the Arphic Public License as published by Arphic Technology Co., Ltd. A copy of this license can be found in ARPHICPL.TXT.
